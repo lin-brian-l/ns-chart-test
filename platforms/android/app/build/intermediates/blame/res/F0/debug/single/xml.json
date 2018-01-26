@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/brianlin/Desktop/programming/chart-test/platforms/android/app/build/intermediates/res/merged/F0/debug/xml/chart_palettes_dark_selected.xml",
+        "source": "/Users/brianlin/.android/build-cache/b22bd0875300385f3698068c6ccaad3103264190/output/res/xml/chart_palettes_dark_selected.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/programming/chart-test/platforms/android/app/build/intermediates/res/merged/F0/debug/xml/chart_palettes_default_light.xml",
+        "source": "/Users/brianlin/.android/build-cache/b22bd0875300385f3698068c6ccaad3103264190/output/res/xml/chart_palettes_default_light.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/programming/chart-test/platforms/android/app/build/intermediates/res/merged/F0/debug/xml/chart_palettes_default_dark.xml",
+        "source": "/Users/brianlin/.android/build-cache/b22bd0875300385f3698068c6ccaad3103264190/output/res/xml/chart_palettes_default_dark.xml"
+    },
+    {
+        "merged": "/Users/brianlin/Desktop/programming/chart-test/platforms/android/app/build/intermediates/res/merged/F0/debug/xml/chart_palettes_light_selected.xml",
+        "source": "/Users/brianlin/.android/build-cache/b22bd0875300385f3698068c6ccaad3103264190/output/res/xml/chart_palettes_light_selected.xml"
+    }
+]

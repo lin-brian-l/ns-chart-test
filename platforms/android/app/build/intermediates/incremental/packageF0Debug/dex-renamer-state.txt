@@ -1,0 +1,4 @@
+#Thu Jan 25 14:19:32 CST 2018
+base.0=/Users/brianlin/Desktop/programming/chart-test/platforms/android/app/build/intermediates/transforms/dex/F0/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/brianlin/Desktop/programming/chart-test/platforms/android/app/build/intermediates/transforms/dex/F0/debug/folders/1000/1f/main/classes.dex
